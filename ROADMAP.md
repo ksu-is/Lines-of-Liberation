@@ -6,3 +6,6 @@
 [ ] Test program and fix any errors
 [ ] Document any bugs or future improvements
 
+[] research which specific speakers i want to have a quote within the project to make it more meaningful
+
+
