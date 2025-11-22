@@ -1,5 +1,3 @@
-Python 3.13.7 (v3.13.7:bcee1c32211, Aug 14 2025, 19:10:51) [Clang 16.0.0 (clang-1600.0.26.6)] on darwin
-Enter "help" below or click "Help" above for more information.
 >>> const quotes = {
 ...   blackPower: [
 ...     "We might not be back. I might be in jail. I might be anywhere. But when I leave, you'll remember I said, with the last words on my lips, that I am a revolutionary. And you're going to have to keep on saying that. You're going to have to say that I am a proletariat; I am the people. — Fred Hampton",
